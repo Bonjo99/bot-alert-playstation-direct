@@ -13,7 +13,7 @@ Questo bot controlla la disponibilità dei prodotti su PlayStation Direct e invi
 1. **Clona il repository:**
 
     ```sh
-    git clone https://github.com/tuo-username/alert-bot-playstation-direct.git
+    git clone https://github.com/Bonjo99/bot-alert-playstation-direct
     cd alert-bot-playstation-direct
     ```
 
